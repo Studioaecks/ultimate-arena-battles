@@ -1,0 +1,19 @@
+{
+  "id": "ultimate_arena_battles",
+  "name": "Ultimate Arena Battles",
+  "version": "1.0.1",
+  "api": 2,
+  "entry": "main.lua",
+  "category": "GAMEPLAY",
+  "games": ["red", "blue", "yellow", "gold", "silver", "crystal"],
+  "priority": 200,
+  "optional_dependencies": [
+    "StadiumBattleFX",
+    "PokePCFollowers_VoxelMerge",
+    "FollowersEX",
+    "Weather-fx",
+    "DRAMATIC_SHAPE",
+    "BATTLE_CINEMATICS",
+    "VoxelVR"
+  ]
+}
